@@ -1,4 +1,5 @@
 const express = require('express');
+const Users = require('./users/usersModel.js');
 
 const server = express();
 
